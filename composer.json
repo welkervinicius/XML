@@ -50,10 +50,10 @@
   "extra": {
     "laravel": {
       "providers": [
-        "ACFBentveld\\XML\\XMLServiceProvider"
+        "welkervinicius\\XML\\XMLServiceProvider"
       ],
       "aliases": {
-        "XML": "ACFBentveld\\XML\\XMLFacade"
+        "XML": "welkervinicius\\XML\\XMLFacade"
       }
     }
   },
